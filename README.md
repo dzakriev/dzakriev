@@ -1,16 +1,19 @@
 ## Hi there 👋
-
-<!--
-**dzakriev/dzakriev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My name is Jamil Zakriev, and I am a Middle-level software developer
+### Telegram - @jamilzakriev
+### Contact email - dzakriev@gmail.com
+---
+* Fullstack .NET/JS developer
+* BPMSoft/Creatio
+* Postgresql
+---
+* 3 years of experience with Terrasoft Creatio CRM
+* High-load systems optimization
+* Designing High-Performance APIs
+---
+* I'm interested in learning Golang, React
+---
+My projects:
+* https://github.com/dzakriev/BPMSoftConsoleApp
+* https://github.com/dzakriev/Pixels
+---
